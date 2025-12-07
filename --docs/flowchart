@@ -1,9 +1,1 @@
-## Flowchart (Text-Based)
-START → Display Menu → User Choice →
-• Length → lengthConverter()
-• Temperature → temperatureConverter()
-• Weight → weightConverter()
-• Time → timeConverter()
-• View History → viewHistory()
-• Clear History → clearHistory()
-• Exit → STOP
+
